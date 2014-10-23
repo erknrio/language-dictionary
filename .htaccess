@@ -1,0 +1,6 @@
+# Desactiva la navegacion de directorios
+Options All -Indexes
+
+# Errores personalizados
+ErrorDocument 404 /idiomas/404.php
+ErrorDocument 403 /idiomas/403.php

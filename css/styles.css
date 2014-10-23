@@ -1,0 +1,57 @@
+.step{
+	padding: 2em;
+	margin: 0px !important;
+	background-color:#E6E6E6;
+	background-image: -webkit-linear-gradient(bottom,#D8D8D8,white); /* For Chrome and Safari */
+	background-image: -moz-linear-gradient(bottom,#D8D8D8,white); /* For old Fx (3.6 to 15) */
+	background-image: -o-linear-gradient(bottom,#D8D8D8,white); /* For old Opera (11.1 to 12.0) */
+	background-image: linear-gradient(bottom,#D8D8D8,white); /* Standard syntax */
+	box-shadow: 1px 1px 5px black;
+	-webkit-box-shadow: 1px 1px 5px black;
+	-moz-box-shadow: 1px 1px 5px black;
+	-o-box-shadow: 1px 1px 5px black;
+}
+
+.step > p{
+    text-align: center;
+	font-size: 1.5em;
+}
+
+.centerText{
+    text-align: center;
+}
+
+.noLink{
+    text-decoration: none !important;
+    color: #000000;
+}
+
+.formBackground{
+    margin-top: 2em;
+    padding: 1em;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    background-color: #BDBDBD;
+}
+
+.marginTop{
+    margin-top: 2em;
+}
+
+.searchButton{
+    margin-top: 1em;
+    box-shadow: 1px 1px 5px black;
+    -webkit-box-shadow: 1px 1px 5px black;
+    -moz-box-shadow: 1px 1px 5px black;
+    -o-box-shadow: 1px 1px 5px black;
+}
+
+.addWordForm{
+    padding-right: 2em;
+    padding-left: 2em;
+}
+
+.tableHead{
+    background-color: #BDBDBD;
+}
